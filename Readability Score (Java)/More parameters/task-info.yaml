@@ -1,0 +1,18 @@
+type: edu
+files:
+  - name: src/readability/Main.java
+    visible: true
+    learner_created: false
+  - name: test/ReadabilityTest.java
+    visible: false
+    learner_created: false
+  - name: src/readability/in.txt
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/39/stages/208/implement#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Fri, 28 Feb 2025 21:44:01 UTC"
+record: -1

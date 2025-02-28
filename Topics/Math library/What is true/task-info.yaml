@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "Math.max(1, Math.min(2, 3)) == 3"
+  - text: Math.PI &gt; 3.14 &amp;&amp; Math.PI &lt; 3.15
+  - text: Math.abs(-1) != Math.abs(1)
+  - text: Math.ceil(1.45) &gt; Math.floor(1.55)
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2031#comment
+status: Solved
+record: -1
+local_check: false
